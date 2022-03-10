@@ -1,6 +1,7 @@
 module Main where
 
 import Lib
+import S18
 
 main :: IO ()
 main = someFunc

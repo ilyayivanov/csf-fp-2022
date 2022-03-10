@@ -26,8 +26,10 @@ source-repository head
 library
   exposed-modules:
       Lib
+      ListEx
+      Ops
       S05
-      S18
+      Shop
   other-modules:
       Paths_skeleton
   hs-source-dirs:
