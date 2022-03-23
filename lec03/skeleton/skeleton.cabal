@@ -29,6 +29,7 @@ library
       ListEx
       Ops
       S05
+      S13
       Shop
   other-modules:
       Paths_skeleton

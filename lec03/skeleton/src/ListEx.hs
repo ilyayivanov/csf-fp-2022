@@ -29,5 +29,6 @@ gl1 = [1 .. 10]
 gl2 = [0, 5 .. 100]
 gl3 = [1, 5 ..]
 
+getMyHead :: [a] -> a
 getMyHead l = head l
 infListHead = getMyHead gl3
