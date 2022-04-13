@@ -26,13 +26,6 @@ source-repository head
 library
   exposed-modules:
       Lib
-      S03
-      S06
-      S07
-      S08
-      S101
-      S102
-      S13
   other-modules:
       Paths_skeleton
   hs-source-dirs:

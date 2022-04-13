@@ -1,4 +1,4 @@
-module S10 where
+module S101 where
 
 import Data.Semigroup
 
